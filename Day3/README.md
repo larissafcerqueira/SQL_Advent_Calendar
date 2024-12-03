@@ -1,6 +1,6 @@
-# Day 3 of SQL Advent Calendar 🎄
+# 🎅 SQL Advent Calendar 2024 - Dia 3
 
-## Today's Question:  
+## 🎯 Today's Question:
 You’re trying to identify the most calorie-packed candies to avoid during your holiday binge. Write a query to rank candies based on their calorie count within each category.  
 Include the following columns in the result:  
 - **candy_name**  
